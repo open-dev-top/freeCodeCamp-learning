@@ -1,0 +1,12 @@
+input {
+  display: block;
+}
+
+.inline {
+  display: inline-block;
+}
+
+input[type="submit"] {
+  display: block;
+  margin: auto;
+}
