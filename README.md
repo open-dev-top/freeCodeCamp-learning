@@ -21,4 +21,6 @@
 
 - <a href="http://198.46.218.141:8080/freeCodeCamp-learning/Responsive_Web_Design_Certification/Learn_the_CSS_Box_Model_by_Building_a_Rothko_Painting/index.html">Learn the CSS Box Model by Building a Rothko Painting
 
-- Learn CSS Flexbox by Building a Photo Gallery
+- <a href="http://198.46.218.141:8080/freeCodeCamp-learning/Responsive_Web_Design_Certification/Learn_CSS_Flexbox_by_Building_a_Photo_Gallery/index.html">Learn CSS Flexbox by Building a Photo Gallery
+
+- Learn Typography by Building a Nutrition Label
