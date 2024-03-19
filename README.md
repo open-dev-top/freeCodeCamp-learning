@@ -19,4 +19,6 @@
 
 #### Part 2
 
-- Learn the CSS Box Model by Building a Rothko Painting
+- <a href="http://198.46.218.141:8080/freeCodeCamp-learning/Responsive_Web_Design_Certification/Learn_the_CSS_Box_Model_by_Building_a_Rothko_Painting/index.html">Learn the CSS Box Model by Building a Rothko Painting
+
+- Learn CSS Flexbox by Building a Photo Gallery
