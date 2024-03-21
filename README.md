@@ -25,4 +25,6 @@
 
 - <a href="http://198.46.218.141:8080/freeCodeCamp-learning/Responsive_Web_Design_Certification/Learn_Typography_by_Building_a_Nutrition_Label/index.html">Learn Typography by Building a Nutrition Label
 
-- Learn Accessibility by Building a Quiz
+- <a href="http://198.46.218.141:8080/freeCodeCamp-learning/Responsive_Web_Design_Certification/Learn_Accessibility_by_Building_a_Quiz/index.html">Learn Accessibility by Building a Quiz
+
+- Certification Project - Tribute Page
